@@ -7,7 +7,7 @@ __pycache__/
 *$py.clss
 
 #Django stuff:
-local_setting.py
+local_settings.py
 *.sqlite3
 
 #database migrations
